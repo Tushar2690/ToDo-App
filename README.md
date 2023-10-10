@@ -2,7 +2,7 @@
 
 This is a simple Todo App project built using Django and PostgreSQL. The application allows users to create, manage, and track their daily tasks and to-do lists.
 
-###Live Demo
+### Live Demo
 
 You can also try the live demo of the To-Do app by visiting the following link:
 [To Do App](https://todo-app-zlfw.onrender.com/)  
