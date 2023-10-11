@@ -12,14 +12,14 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os
-import dj_database_url;
+# import dj_database_url;
 
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-db_url = "postgres://Tushar2690:Jxa5RgCkO3Am@ep-icy-moon-24146740.ap-southeast-1.aws.neon.tech/neondb"
+# db_url = "postgres://Tushar2690:Jxa5RgCkO3Am@ep-icy-moon-24146740.ap-southeast-1.aws.neon.tech/neondb"
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
